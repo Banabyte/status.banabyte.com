@@ -2,7 +2,7 @@ owner: ZEROPOINTBRUH
 repo: WebsiteAlarmClock
 
 sites:
-  # PTSD
+  # PTSD ALARM
   - name: Banabyte Website
     url: https://Banabyte.com
     expectedStatusCodes:
