@@ -13,8 +13,6 @@ sites:
     url: https://warzon.io
   - name: Dev Suroi
     url: https://dv.suroi.io
-  - name: Test Ping DNS 1.1.1.1
-    url: https://1.1.1.1
   - name: Test Ping DNS google
     url: https://google.com
 
