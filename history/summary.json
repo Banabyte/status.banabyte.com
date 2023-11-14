@@ -16,7 +16,7 @@
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-11-14": 401
+      "2023-11-14": 412
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 47,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2023-11-14": 401
+      "2023-11-14": 412
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-11-14": 401
+      "2023-11-14": 412
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://dv.suroi.io",
     "icon": "https://icons.duckduckgo.com/ip3/dv.suroi.io.ico",
     "slug": "damien-vespers-private-suroi-server",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 240,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "status": "up",
+    "uptime": "97.22%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "97.22%",
+    "time": 303,
+    "timeDay": 303,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-11-14": 0
+      "2023-11-14": 11
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2023-11-14": 382
+      "2023-11-14": 393
     }
   },
   {
