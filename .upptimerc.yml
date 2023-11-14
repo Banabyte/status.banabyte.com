@@ -1,16 +1,22 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ZEROPOINTBRUH # Your GitHub organization or username, where this repository lives
+repo: WebsiteAlarmClock # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Banabyte Website
+    url: https://banabyte.com
+  - name: Banabyte Panel
+    url: https://panel.banabyte.com
+  - name: Banabyte CDN
+    url: https://cdn.banabyte.com
+  - name: Warzon.io
+    url: https://warzon.io
+  - name: Dev Suroi
+    url: https://dv.suroi.io
+  - name: Test Ping DNS 1.1.1.1
+    url: https://1.1.1.1
+  - name: Test Ping DNS google
+    url: https://google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
