@@ -18,13 +18,48 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Warzon
+  - name: Warzon.io
     url: https://warzon.io
     expectedStatusCodes:
       - 200
       - 401
-  - name: Other
+  - name: DamienVespers Private Suroi Server
     url: https://dv.suroi.io
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: DNS SERVER 1
+    url: https://1.1.1.1
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: DNS SERVER 2
+    url: https://dns.google
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Cluster 1
+    url: https://co-us01.banabyte.com:8080
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Cluster 2
+    url: https://co-us02.banabyte.com:8081
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Cluster 3
+    url: https://co-us03.banabyte.com:8082
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Unknown
+    url: https://admin.banabyte.com
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: BanaBlock.net
+    url: https://banablock.net
     expectedStatusCodes:
       - 200
       - 401
