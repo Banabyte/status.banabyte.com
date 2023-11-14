@@ -16,7 +16,7 @@
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-11-14": 412
+      "2023-11-14": 729
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 47,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2023-11-14": 412
+      "2023-11-14": 729
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-11-14": 412
+      "2023-11-14": 729
     }
   },
   {
@@ -64,37 +64,39 @@
     "url": "https://warzon.io",
     "icon": "https://icons.duckduckgo.com/ip3/warzon.io.ico",
     "slug": "warzon-io",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 306,
     "timeDay": 306,
     "timeWeek": 306,
     "timeMonth": 306,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 4
+    }
   },
   {
     "name": "DamienVespers Private Suroi Server",
     "url": "https://dv.suroi.io",
     "icon": "https://icons.duckduckgo.com/ip3/dv.suroi.io.ico",
     "slug": "damien-vespers-private-suroi-server",
-    "status": "up",
-    "uptime": "97.22%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "97.22%",
+    "status": "down",
+    "uptime": "98.00%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.00%",
     "time": 303,
     "timeDay": 303,
     "timeWeek": 303,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-11-14": 11
+      "2023-11-14": 14
     }
   },
   {
@@ -138,54 +140,60 @@
     "url": "https://co-us01.banabyte.com:8080",
     "icon": "https://icons.duckduckgo.com/ip3/co-us01.banabyte.com.ico",
     "slug": "cluster-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 3
+    }
   },
   {
     "name": "Cluster 2",
     "url": "https://co-us02.banabyte.com:8081",
     "icon": "https://icons.duckduckgo.com/ip3/co-us02.banabyte.com.ico",
     "slug": "cluster-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 2
+    }
   },
   {
     "name": "Cluster 3",
     "url": "https://co-us03.banabyte.com:8082",
     "icon": "https://icons.duckduckgo.com/ip3/co-us03.banabyte.com.ico",
     "slug": "cluster-3",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 2
+    }
   },
   {
     "name": "Unknown",
@@ -204,7 +212,7 @@
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2023-11-14": 393
+      "2023-11-14": 710
     }
   },
   {
@@ -212,17 +220,19 @@
     "url": "https://banablock.net",
     "icon": "https://icons.duckduckgo.com/ip3/banablock.net.ico",
     "slug": "bana-block-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 254,
     "timeDay": 254,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   }
 ]
