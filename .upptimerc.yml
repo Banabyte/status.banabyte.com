@@ -1,35 +1,46 @@
-# Change these first
-owner: ZEROPOINTBRUH # Your GitHub organization or username, where this repository lives
-repo: WebsiteAlarmClock # The name of this repository
+owner: ZEROPOINTBRUH
+repo: WebsiteAlarmClock
 
 sites:
+  # PTSD
   - name: Banabyte Website
-    url: https://banabyte.com
-  - name: Banabyte Panel
-    url: https://panel.banabyte.com
+    url: https://Banabyte.com
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Banabyte CDN
     url: https://cdn.banabyte.com
-  - name: Warzon.io
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Banabyte Panel
+    url: https://panel.banabyte.com
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Warzon
     url: https://warzon.io
-  - name: Dev Suroi
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Other
     url: https://dv.suroi.io
-  - name: Test Ping DNS google
-    url: https://google.com
+    expectedStatusCodes:
+      - 200
+      - 401
+
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /WebsiteAlarmClock
+  cname: status2.banabyte.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  name: THE PTSD ALARM CLOCK
+  introTitle: "Something isn't working?"
+  introMessage: Join the [Discord](https://discord.banabyte.com) to report it!
+  theme: dark
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: "ZEROPOINTBRUH"
+  commitAuthorEmail: "wegj1@hotmail.com"
+
+assignees:
+  - ZEROPOINTBRUH
