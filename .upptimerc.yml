@@ -1,5 +1,6 @@
 owner: ZEROPOINTBRUH
 repo: WebsiteAlarmClock
+user-agent: ZEROPOINTBRUH
 
 sites:
   # Its not real butter
@@ -68,7 +69,7 @@ sites:
 status-website:
   cname: status2.banabyte.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: THE PTSD ALARM CLOCK
+  name: WebsiteAlarmClock
   introTitle: "Something isn't working?"
   introMessage: Join the [Discord](https://discord.banabyte.com) to report it!
   theme: dark
