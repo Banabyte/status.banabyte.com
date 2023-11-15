@@ -2,7 +2,7 @@ owner: ZEROPOINTBRUH
 repo: WebsiteAlarmClock
 
 sites:
-  # PTSD ALARM!
+  # Its not real butter
   - name: Banabyte Website
     url: https://Banabyte.com
     expectedStatusCodes:
