@@ -63,6 +63,17 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: Donetsk.live
+    url: https://donetsk.live
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Support.Donetsk.live
+    url: https://support.donetsk.live
+    expectedStatusCodes:
+      - 200
+      - 401
+
 
 
 status-website:
