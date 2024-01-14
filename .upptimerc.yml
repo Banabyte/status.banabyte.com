@@ -18,51 +18,44 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Warzon.io
-    url: https://warzon.io
+  - name: Banabyte Radio
+    url: https://radio.banabyte.com
     expectedStatusCodes:
       - 200
       - 401
-  - name: DamienVespers Private Suroi Server
-    url: https://dv.suroi.io
+  - name: Status Page
+    url: https://status.banabyte.com
     expectedStatusCodes:
       - 200
-      - 401
-  - name: DNS SERVER 1
-    url: https://1.1.1.1
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: DNS SERVER 2
-    url: https://dns.google
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Cluster 1
+      - 401      
+
+  - name: Server 1
     url: https://co-us01.banabyte.com:2021
     expectedStatusCodes:
       - 200
       - 401
-  - name: Cluster 2
+  - name: Server 2
     url: https://co-us02.banabyte.com:2031
     expectedStatusCodes:
       - 200
       - 401
-  - name: Cluster 3
+  - name: Server 3
     url: https://co-us03.banabyte.com:2041
     expectedStatusCodes:
       - 200
       - 401
-  - name: Unknown
+  - name: Network Backend
     url: https://admin.banabyte.com
     expectedStatusCodes:
       - 200
       - 401
+
   - name: BanaBlock.net
     url: https://banablock.net
     expectedStatusCodes:
       - 200
       - 401
+
   - name: Donetsk.live
     url: https://donetsk.live
     expectedStatusCodes:
@@ -74,6 +67,27 @@ sites:
       - 200
       - 401
 
+  - name: Warzon.io
+    url: https://warzon.io
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: DamienVespers Private Suroi Server
+    url: https://dv.suroi.io
+    expectedStatusCodes:
+      - 200
+      - 401      
+
+  - name: DNS SERVER 1
+    url: https://1.1.1.1
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: DNS SERVER 2
+    url: https://dns.google
+    expectedStatusCodes:
+      - 200
+      - 401
 
 status-website:
   cname: status2.banabyte.com
