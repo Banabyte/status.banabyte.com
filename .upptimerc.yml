@@ -92,7 +92,7 @@ sites:
 status-website:
   cname: status.banabyte.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: WebsiteAlarmClock
+  name: Banabyte Backend Status Page
   introTitle: "Something isn't working?"
   introMessage: Join the [Discord](https://discord.banabyte.com) to report it!
   theme: dark
