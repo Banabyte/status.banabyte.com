@@ -1,5 +1,5 @@
-owner: ZEROPOINTBRUH
-repo: WebsiteAlarmClock
+owner: Banabyte
+repo: status.banabyte.com
 
 sites:
   # Its not real butter
@@ -90,7 +90,7 @@ sites:
       - 401
 
 status-website:
-  cname: status2.banabyte.com
+  cname: status.banabyte.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WebsiteAlarmClock
   introTitle: "Something isn't working?"
