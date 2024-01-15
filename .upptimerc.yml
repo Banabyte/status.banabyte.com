@@ -28,6 +28,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 401      
+  - name: Banabyte Forum
+    url: https://forum.banabyte.com
+    expectedStatusCodes:
+      - 200
+      - 401      
 
   # Banabyte Network Servers
   - name: Server 1
