@@ -19,7 +19,7 @@ sites:
       - 200
       - 401
   - name: Banabyte Radio
-    url: https://radio.banabyte.com
+    url: https://live.banabyte.com
     expectedStatusCodes:
       - 200
       - 401
@@ -28,21 +28,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 401      
-  - name: Banabyte Forum
-    url: https://forum.banabyte.com
-    expectedStatusCodes:
-      - 200
-      - 401      
-  - name: Store Page
-    url: https://store.banabyte.com
-    expectedStatusCodes:
-      - 200
-      - 401      
-  - name: Image Host
-    url: https://i.banabyte.com
-    expectedStatusCodes:
-      - 200
-      - 401      
+
 
   # Banabyte Network Servers
   - name: Server 1
@@ -60,27 +46,10 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Network Backend
-    url: https://admin.banabyte.com
-    expectedStatusCodes:
-      - 200
-      - 401
 
   # Banablock Network
   - name: BanaBlock.net
     url: https://banablock.net
-    expectedStatusCodes:
-      - 200
-      - 401
-
-  # Warzon.io (Hosted by Banabyte Network)
-  - name: Warzon.io
-    url: https://warzon.io
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: DamienVespers Private Suroi Server
-    url: https://dv.suroi.io
     expectedStatusCodes:
       - 200
       - 401      
