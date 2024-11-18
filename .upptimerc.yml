@@ -31,45 +31,45 @@ sites:
 
 
   # Banabyte Network Servers
-  - name: Server 1
+  - name: CO-US01
     url: https://co-us01.banabyte.com:2021
     expectedStatusCodes:
       - 200
       - 401
-  - name: Server 2
+  - name: CO-US02
     url: https://co-us02.banabyte.com:2031
     expectedStatusCodes:
       - 200
       - 401
-  - name: Server 3
+  - name: CO-US03
     url: https://co-us03.banabyte.com:2041
     expectedStatusCodes:
       - 200
       - 401
 
   # Banablock Network
-  - name: BanaBlock.net
+  - name: Banablock Website
     url: https://banablock.net
     expectedStatusCodes:
       - 200
       - 401      
 
   # Active DNS Servers
-  - name: DNS SERVER 1
+  - name: Cloudflare DNS
     url: https://1.1.1.1
     expectedStatusCodes:
       - 200
       - 401
-  - name: DNS SERVER 2
+  - name: Google DNS
     url: https://dns.google
     expectedStatusCodes:
       - 200
       - 401
 
 status-website:
-  cname: status.banabyte.com
+  cname: uptime.banabyte.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Banabyte Backend Status Page
+  name: Banabyte Status
   introTitle: "Something isn't working?"
   introMessage: Join the [Discord](https://discord.banabyte.com) to report it!
   theme: dark
