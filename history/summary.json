@@ -193,19 +193,19 @@
     "url": "https://status.banabyte.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.banabyte.com.ico",
     "slug": "status-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 138,
-    "timeWeek": 123,
+    "timeDay": 137,
+    "timeWeek": 124,
     "timeMonth": 143,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-11-18": 0
+      "2024-11-18": 16
     }
   },
   {
