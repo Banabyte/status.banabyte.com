@@ -262,18 +262,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/co-us03.banabyte.com.ico",
     "slug": "co-us-03",
     "status": "down",
-    "uptime": "91.32%",
-    "uptimeDay": "58.55%",
-    "uptimeWeek": "91.32%",
-    "uptimeMonth": "91.32%",
-    "uptimeYear": "91.32%",
+    "uptime": "89.80%",
+    "uptimeDay": "50.48%",
+    "uptimeWeek": "89.80%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "89.80%",
     "time": 160,
     "timeDay": 0,
     "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-11-22": 597
+      "2024-11-23": 107,
+      "2024-11-22": 606
     }
   },
   {
@@ -282,18 +283,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/banablock.net.ico",
     "slug": "banablock-website",
     "status": "down",
-    "uptime": "60.29%",
+    "uptime": "59.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.29%",
-    "uptimeMonth": "60.29%",
-    "uptimeYear": "60.29%",
+    "uptimeWeek": "59.29%",
+    "uptimeMonth": "59.29%",
+    "uptimeYear": "59.29%",
     "time": 215,
     "timeDay": 168,
     "timeWeek": 215,
     "timeMonth": 215,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-11-22": 1431,
+      "2024-11-23": 107,
+      "2024-11-22": 1440,
       "2024-11-21": 1298
     }
   },
