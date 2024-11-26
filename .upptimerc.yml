@@ -19,7 +19,7 @@ sites:
       - 200
       - 401
   - name: Banabyte Radio
-    url: https://live.banabyte.com
+    url: https://radio.banabyte.com
     expectedStatusCodes:
       - 200
       - 401
