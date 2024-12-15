@@ -1,7 +1,7 @@
 url: https://co-us02.banabyte.com:2031
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-15T19:50:38.083Z
+status: up
+code: 401
+responseTime: 253
+lastUpdated: 2024-12-15T19:55:18.817Z
 startTime: 2024-11-18T05:17:40.739Z
 generator: Upptime <https://github.com/upptime/upptime>
