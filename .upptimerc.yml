@@ -9,7 +9,7 @@ sites:
       - 200
       - 401
   - name: Banabyte CDN
-    url: https://cdn.banabyte.com
+    url: https://cdn.bbyte.app
     expectedStatusCodes:
       - 200
       - 401
@@ -18,53 +18,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Banabyte Radio
-    url: https://radio.banabyte.com
-    expectedStatusCodes:
-      - 200
-      - 401
   - name: Status Page
     url: https://status.banabyte.com
     expectedStatusCodes:
       - 200
       - 401      
-
-
-  # Banabyte Network Servers
-  - name: CO-US01
-    url: https://us01.bbyte.app:2021
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: CO-US02
-    url: https://us02.bbyte.app:2031
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: CO-US03
-    url: https://us03.bbyte.app:2041
-    expectedStatusCodes:
-      - 200
-      - 401
-
-  # Banablock Network
-  - name: Banablock Website
-    url: https://banablock.net
-    expectedStatusCodes:
-      - 200
-      - 401      
-
-  # Active DNS Servers
-  - name: Cloudflare DNS
-    url: https://1.1.1.1
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Google DNS
-    url: https://dns.google
-    expectedStatusCodes:
-      - 200
-      - 401
 
 status-website:
   cname: uptime.banabyte.com
