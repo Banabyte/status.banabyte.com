@@ -1,7 +1,7 @@
 url: https://status.banabyte.com
-status: up
-code: 200
-responseTime: 255
-lastUpdated: 2025-11-18T11:54:54.259Z
+status: down
+code: 500
+responseTime: 86
+lastUpdated: 2025-11-18T13:01:01.172Z
 startTime: 2024-01-14T21:16:23.954Z
 generator: Upptime <https://github.com/upptime/upptime>
