@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/banabyte.com.ico",
     "slug": "banabyte-website",
     "status": "up",
-    "uptime": "91.57%",
+    "uptime": "91.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.53%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "83.58%",
-    "time": 916,
-    "timeDay": 256,
-    "timeWeek": 4902,
-    "timeMonth": 2490,
+    "time": 915,
+    "timeDay": 230,
+    "timeWeek": 4896,
+    "timeMonth": 2491,
     "timeYear": 1193,
     "dailyMinutesDown": {
       "2026-02-04": 238,
@@ -101,8 +101,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 87,
-      "2025-02-18": 24,
-      "2025-02-08": 15
+      "2025-02-18": 24
     }
   },
   {
@@ -117,9 +116,9 @@
     "uptimeMonth": "98.42%",
     "uptimeYear": "97.17%",
     "time": 686,
-    "timeDay": 183,
-    "timeWeek": 234,
-    "timeMonth": 230,
+    "timeDay": 196,
+    "timeWeek": 221,
+    "timeMonth": 228,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2026-02-04": 238,
@@ -162,8 +161,7 @@
       "2025-04-05": 12,
       "2025-04-01": 174,
       "2025-03-31": 1375,
-      "2025-02-18": 22,
-      "2025-02-08": 15
+      "2025-02-18": 22
     }
   },
   {
@@ -177,10 +175,10 @@
     "uptimeWeek": "95.07%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "97.57%",
-    "time": 433,
-    "timeDay": 333,
-    "timeWeek": 402,
-    "timeMonth": 581,
+    "time": 427,
+    "timeDay": 393,
+    "timeWeek": 396,
+    "timeMonth": 580,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2026-02-04": 238,
@@ -223,8 +221,7 @@
       "2025-04-05": 12,
       "2025-04-01": 174,
       "2025-03-31": 1374,
-      "2025-02-18": 21,
-      "2025-02-08": 14
+      "2025-02-18": 21
     }
   },
   {
@@ -239,9 +236,9 @@
     "uptimeMonth": "98.32%",
     "uptimeYear": "94.87%",
     "time": 940,
-    "timeDay": 317,
-    "timeWeek": 4473,
-    "timeMonth": 2915,
+    "timeDay": 328,
+    "timeWeek": 4470,
+    "timeMonth": 2918,
     "timeYear": 1183,
     "dailyMinutesDown": {
       "2026-02-04": 238,
@@ -294,8 +291,7 @@
       "2025-04-05": 12,
       "2025-04-01": 174,
       "2025-03-31": 1374,
-      "2025-02-18": 21,
-      "2025-02-08": 14
+      "2025-02-18": 21
     }
   }
 ]
