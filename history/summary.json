@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/banabyte.com.ico",
     "slug": "banabyte-website",
     "status": "up",
-    "uptime": "91.67%",
+    "uptime": "91.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "83.59%",
     "time": 915,
-    "timeDay": 254,
-    "timeWeek": 289,
-    "timeMonth": 1536,
+    "timeDay": 268,
+    "timeWeek": 282,
+    "timeMonth": 1535,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2026-02-04": 238,
@@ -100,8 +100,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 87,
-      "2025-02-18": 24
+      "2025-03-21": 87
     }
   },
   {
@@ -116,9 +115,9 @@
     "uptimeMonth": "98.97%",
     "uptimeYear": "97.18%",
     "time": 685,
-    "timeDay": 201,
-    "timeWeek": 233,
-    "timeMonth": 229,
+    "timeDay": 328,
+    "timeWeek": 236,
+    "timeMonth": 231,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2026-02-04": 238,
@@ -160,8 +159,7 @@
       "2025-06-15": 41,
       "2025-04-05": 12,
       "2025-04-01": 174,
-      "2025-03-31": 1375,
-      "2025-02-18": 22
+      "2025-03-31": 1375
     }
   },
   {
@@ -171,14 +169,14 @@
     "slug": "banabyte-panel",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "97.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "97.57%",
     "time": 426,
-    "timeDay": 358,
-    "timeWeek": 410,
-    "timeMonth": 392,
+    "timeDay": 461,
+    "timeWeek": 411,
+    "timeMonth": 395,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-02-16": 40,
@@ -221,8 +219,7 @@
       "2025-04-23": 38,
       "2025-04-05": 12,
       "2025-04-01": 174,
-      "2025-03-31": 1374,
-      "2025-02-18": 21
+      "2025-03-31": 1374
     }
   },
   {
@@ -236,9 +233,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "94.87%",
-    "time": 942,
-    "timeDay": 265,
-    "timeWeek": 279,
+    "time": 943,
+    "timeDay": 284,
+    "timeWeek": 283,
     "timeMonth": 1507,
     "timeYear": 1181,
     "dailyMinutesDown": {
@@ -291,8 +288,7 @@
       "2025-06-15": 39,
       "2025-04-05": 12,
       "2025-04-01": 174,
-      "2025-03-31": 1374,
-      "2025-02-18": 21
+      "2025-03-31": 1374
     }
   }
 ]
