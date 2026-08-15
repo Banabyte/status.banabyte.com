@@ -4,17 +4,17 @@
     "url": "https://Banabyte.com",
     "icon": "https://icons.duckduckgo.com/ip3/banabyte.com.ico",
     "slug": "banabyte-website",
-    "status": "up",
-    "uptime": "93.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "96.49%",
-    "time": 946,
-    "timeDay": 318,
-    "timeWeek": 264,
-    "timeMonth": 342,
-    "timeYear": 996,
+    "status": "down",
+    "uptime": "93.06%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "96.67%",
+    "time": 951,
+    "timeDay": 1683,
+    "timeWeek": 612,
+    "timeMonth": 422,
+    "timeYear": 1001,
     "dailyMinutesDown": {
       "2025-08-24": 177,
       "2025-08-23": 1440,
@@ -48,7 +48,8 @@
       "2026-02-03": 213,
       "2026-03-04": 45,
       "2026-07-05": 379,
-      "2026-07-19": 1104
+      "2026-07-19": 1104,
+      "2026-08-15": 10
     }
   },
   {
@@ -56,11 +57,11 @@
     "url": "https://cdn.bbyte.app",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.bbyte.app.ico",
     "slug": "banabyte-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "97.48%",
     "uptimeYear": "97.90%",
     "time": 677,
     "timeDay": 228,
@@ -98,7 +99,8 @@
       "2026-03-04": 44,
       "2026-03-05": 32,
       "2026-07-05": 375,
-      "2026-07-19": 1099
+      "2026-07-19": 1099,
+      "2026-08-15": 5
     }
   },
   {
@@ -106,12 +108,12 @@
     "url": "https://panel.banabyte.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.banabyte.com.ico",
     "slug": "banabyte-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.50%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.35%",
     "time": 489,
     "timeDay": 538,
     "timeWeek": 513,
@@ -152,7 +154,8 @@
       "2026-04-13": 86,
       "2026-04-29": 53,
       "2026-07-05": 370,
-      "2026-07-19": 1094
+      "2026-07-19": 1094,
+      "2026-08-15": 0
     }
   },
   {
