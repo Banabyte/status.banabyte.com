@@ -4,25 +4,42 @@ repo: status.banabyte.com
 sites:
   # Banabyte Network Pages
   - name: Banabyte Website
-    url: https://Banabyte.com
-    expectedStatusCodes:
-      - 200
-      - 401
+    url: https://banabyte.com
+
   - name: Banabyte CDN
     url: https://cdn.bbyte.app
-    expectedStatusCodes:
-      - 200
-      - 401
+
   - name: Banabyte Panel
     url: https://panel.banabyte.com
-    expectedStatusCodes:
-      - 200
-      - 401
+
   - name: Status Page
     url: https://status.banabyte.com
-    expectedStatusCodes:
-      - 200
-      - 401      
+
+  - name: US-01
+    check: "tcp-ping"
+    url: us01.bbyte.app
+    port: 2021
+    ipv6: false
+  - name: US-02
+    check: "tcp-ping"
+    url: us02.bbyte.app
+    port: 2031
+    ipv6: false
+  - name: US-03
+    check: "tcp-ping"
+    url: us03.bbyte.app
+    port: 2041
+    ipv6: false
+  - name: US-04
+    check: "tcp-ping"
+    url: us04.bbyte.app
+    port: 2051
+    ipv6: false
+  - name: US-05
+    check: "tcp-ping"
+    url: us05.bbyte.app
+    port: 2061
+    ipv6: false
 
 status-website:
   cname: status.banabyte.com
